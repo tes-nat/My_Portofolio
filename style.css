@@ -85,9 +85,13 @@ body {
   gap: 20px;
 }
 
-.social-section {
+.social-section1 {
   margin-right: 118px;
   margin-top: 45px;
+}
+
+.social-section2 {
+  margin-right: 118px;
 }
 
 /* social media icons----------------------------------------------------------------------- */
