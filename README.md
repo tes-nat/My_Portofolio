@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+
+
   <br/>
 
   <h3><b>Mobile Version Project</b></h3>
@@ -32,12 +32,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [-hello-microvers] <a name="about-project"></a>
+# 📖 [Mobile-Feature] <a name="about-project"></a>
 
 > This project was part of Microverse week one tasks.
 It gives the student an opportunity to learn and do with HTML, CSS, and Github.
 
-**[Hello Microvers]** is a...
+**[Mobile-Feature]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
